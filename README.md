@@ -1,4 +1,4 @@
-# Proyecto2Telematica
+# Proyecto 2 Tópicos especiales en Telemática
 Construcción y despliegue CMS Proyecto 2 Tópicos en Telemática
 
 Integrantes:
