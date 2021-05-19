@@ -6,6 +6,6 @@ Integrantes:
 2. Santiago Moreno
 
 Dominios:
-proyecto2telematica.tk - Individual Camila Barona
-santiagoproyectodos.tk - Individual Santiago Moreno
-proyecto2telematicagrupal.ml - Grupal 
+1. proyecto2telematica.tk - Individual Camila Barona
+2. santiagoproyectodos.tk - Individual Santiago Moreno
+3. proyecto2telematicagrupal.ml - Grupal 
